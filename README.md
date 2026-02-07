@@ -7,6 +7,12 @@
 [![ROP](https://img.shields.io/badge/ROP-Exploitation-red)](https://ropemporium.com)
 [![CTF](https://img.shields.io/badge/CTF-Ready-green)](https://ctftime.org)
 
+<div align="center">
+  <img src="https://github.com/medaminkh-dev/Raw_Overflow_Forge/blob/main/overview.gif?raw=true" alt="ROF Demo - Automatic ROP Exploitation in Action" width="900"/>
+  <br><br>
+  <i>ROF automatically analyzes binaries, finds gadgets, builds chains, and delivers working payloads in seconds.</i>
+</div>
+
 **ROF** automates the entire ROP exploitation workflow — from binary analysis to working payload generation — in seconds. Designed for CTFs, security research, and hands-on binary exploitation learning.
 
 No more hours of manual gadget hunting. Just run one command and get a shell.
